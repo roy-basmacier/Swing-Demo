@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Swing",
+"productVersion": "0.1",
+"dataUrl": "Swing-Demo.data.unityweb",
+"wasmCodeUrl": "Swing-Demo.wasm.code.unityweb",
+"wasmFrameworkUrl": "Swing-Demo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.14f1"
+}
